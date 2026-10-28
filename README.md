@@ -30,4 +30,4 @@ Requer privilégios de Administrador.
 
 ```powershell
 # Executar o script
-.\Cleaner.ps1
+.\DeepCleaner.ps1
